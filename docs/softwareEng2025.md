@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学の内容のまとめ
 ソフトウェア工学概論
 ソフトウェア工学の知識の乖離は開発に支障をきたすため、チームで共有する必要がある。
